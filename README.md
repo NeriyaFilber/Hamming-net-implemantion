@@ -23,4 +23,4 @@ The Hamming network is a type of neural network designed for pattern recognition
 
 ## Contact
 
-For any questions or inquiries, please contact Neriya Filber at [neriyafil@gmail.com].
+For any questions or inquiries, please contact Neriya Filber at neriyafil@gmail.com.
